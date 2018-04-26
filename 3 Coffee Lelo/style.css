@@ -1,0 +1,13 @@
+body{
+background-color: #000000;
+font-family: monospace;
+font-size: 150px;
+font-style: oblique;
+text-align: center;
+color: #ff0000;
+position: fixed;
+top: 50%;
+left: 50%;
+margin-top: -100px;
+margin-left: -100px;
+}
